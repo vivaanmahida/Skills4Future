@@ -1,4 +1,4 @@
-# Skills4Future
+# Ozone_Layer-Depletion-Prediction
 ML Model for Continuous Data Prediction
 
 Overview
